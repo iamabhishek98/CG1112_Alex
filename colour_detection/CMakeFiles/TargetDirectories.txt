@@ -1,0 +1,3 @@
+/home/pi/Desktop/colour_detection/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/colour_detection/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/colour_detection/CMakeFiles/detect_color.dir
